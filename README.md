@@ -40,6 +40,7 @@ make menuconfig
 ![coonboot firmware](images/octopus_canboot_firmware_config.png)
 
 > For F446 processor => `STM32F446` and `12 Mhz`
+> For F429 processor => `STM32F429` and `8 Mhz`
 
 And compile it
 ```
